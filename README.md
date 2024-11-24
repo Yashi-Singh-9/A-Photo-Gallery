@@ -25,13 +25,13 @@ To get started with the photo gallery:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://gitlab.com/Yashi-Singh-9/a-photo-gallery.git
+   git clone https://github.com/Yashi-Singh-9/A-Photo-Gallery.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd a-photo-gallery
+   cd A-Photo-Gallery
    ```
 
 3. **Open the HTML File**
